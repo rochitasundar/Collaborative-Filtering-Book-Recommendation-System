@@ -1,3 +1,5 @@
+### ([Click here instead to view notebook ](https://nbviewer.org/github/rochitasundar/Collaborative-Filtering-Book-Recommendation-System/blob/master/Book%20Recommendation%20Project.ipynb) )
+
 ### Book Recommendation Project
 
 Recommendation Systems are one of the largest application areas of Machine Learning. They enable tailoring personalized content for users, thereby generating revenue for businesses
